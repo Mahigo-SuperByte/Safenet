@@ -27,6 +27,7 @@ safenet-wifi-connector/
 ├── wifi_connector.py   # Client-mode connection logic
 ├── virtual_ap.py       # Virtual Hotspot/Access Point creation logic
 └── setup.sh            # Automated dependency installer script
+``
 Prerequisites
 This application requires Linux, NetworkManager, and Python 3.
 
